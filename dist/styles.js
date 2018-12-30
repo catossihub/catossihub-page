@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/augusto-bondanca/Documents/projetos/catossihub/catossihub.github.io/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/augusto/Documentos/catossihub/catossihub.github.io/src/styles.css */"./src/styles.css");
 
 
 /***/ })

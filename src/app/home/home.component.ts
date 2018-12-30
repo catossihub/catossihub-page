@@ -11,5 +11,6 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
   }
+   objetivo = ' O nosso objetivo é engajar o maior número possível de pessoas para os eventos de comunidade e Principalmente os hackathons.';
 
 }
